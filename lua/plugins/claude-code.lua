@@ -8,8 +8,8 @@ return {
       window = {
         split_ratio = 0.4,
         position = "vertical",
-      }
-
+      },
+      command = "claude --dangerously-skip-permissions",
     })
   end,
   lazy = false,
