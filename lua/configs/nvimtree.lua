@@ -5,5 +5,9 @@ return {
   },
   view = {
     adaptive_size = true,
+  },
+  git = {
+    enable = true,
+    ignore = false,
   }
 }
